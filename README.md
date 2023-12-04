@@ -11,6 +11,9 @@
 
 <h2> Github Stats </h2> 
 
+</a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtyomKingmang&theme=tokyonight" alt="muskanrani" />
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=ArtyomKingmang&color=brightgreen)
 
