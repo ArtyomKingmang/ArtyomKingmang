@@ -6,7 +6,6 @@
 <h2> My main projects 👇</h2>
 <p>1. <a href="https://github.com/ArtyomKingmang/Lazurite">Lazurite Programming language</a></p>
 <p>1. <a href="https://github.com/ArtyomKingmang/LZREngine">2d game engine for Lazurite and Processing languages</a></p>
-<p>1. <a href="https://github.com/ArtyomKingmang/survival-game">Adventure game</a></p>
 
 
 <h2> Github Stats </h2> 
