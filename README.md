@@ -1,8 +1,10 @@
 <h2>Hi! I`m Kingmang!</h2>
 
 
-<h2> My main projects 👇</h2>
+<h2> Working on projects: 👇</h2>
 <p>1. <a href="https://github.com/ArtyomKingmang/Lazurite">Lazurite Programming language</a></p>
+<p>1. <a href="https://github.com/Domaman202/Project-Pihta">Pihta Programming language</a></p>
+<p>1. <a href="https://github.com/SoraVWV/Axolotl">Axolotol Programming language</a></p>
 
 
 <h2> Github Stats </h2> 
