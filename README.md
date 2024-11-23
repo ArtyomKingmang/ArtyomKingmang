@@ -13,3 +13,6 @@
 
 <p>1. <a href="https://github.com/IxionLang/Ixion">Ixion Programming language</a></p>
 
+<div align="center">
+  <img src="icon.png" width="300" height = "110">
+</div>
