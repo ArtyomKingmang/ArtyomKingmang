@@ -13,6 +13,5 @@
 
 <p>1. <a href="https://github.com/IxionLang/Ixion">Ixion Programming language</a></p>
 
-<div align="center">
-  <img src="https://github.com/ArtyomKingmang/ArtyomKingmang/blob/main/logo.png" width="300" height = "110">
-</div>
+<img src="https://github.com/ArtyomKingmang/ArtyomKingmang/blob/main/logo.png" width="200" height = "70">
+
